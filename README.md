@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+When forked this program run: npm install @mui/icons-material to make the icons work! In the code there are three lists: Cars.json, Data.json and Movies.json. You can shift between them with minor chages in the code. Start it all with npm start(as often..)
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -63,7 +65,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-When forked this program run: npm install @mui/icons-material to make the icons work! In the code there are three lists: Cars.json, Data.json and Movies.json. You can shift between them with minor chages in the code. Start it all with npm start(as often..)
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
