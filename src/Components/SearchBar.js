@@ -45,7 +45,7 @@ function SearchBar({ placeholder, data }) {
       </div>
       {filteredData.length !== 0 && (
         <div className="dataResult">
-          {filteredData.slice(0, 10).map((value, key) => {
+          {filteredData.slice(0, 20).map((value, key) => {
             return (
               <a className="dataItem" href={value.image} target="_blank">
                 <p>{value.title} </p>
