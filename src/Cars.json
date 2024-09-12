@@ -11,6 +11,26 @@
         "class": "Military vehicle"
     },
     {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/1991_Ferrari_Testarossa_4.9.jpg",
+        "title": "Ferrari Testarossa",
+        "class": "Sports vehicle"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/F40_Ferrari_20090509.jpg",
+        "title": "Ferrari F40",
+        "class": "Sports vehicle"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/2023_Lamborghini_Aventador_Ultimae.jpg",
+        "title": "Lamborghini Aventador",
+        "class": "Sports vehicle"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lamborghini_Countach_-_Flickr_-_exfordy_%282%29.jpg",
+        "title": "Lamborghini Countach",
+        "class": "Sports vehicle"
+    },
+    {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2014_Porsche_Cayenne_%2892A_MY14%29_GTS_wagon_%282015-08-07%29_01.jpg/400px-2014_Porsche_Cayenne_%2892A_MY14%29_GTS_wagon_%282015-08-07%29_01.jpg",
         "title": "Porsche Cayenne",
         "start_production": 2002,
